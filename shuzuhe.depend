@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1586325766 source:e:\dasan\shuzuhe\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
